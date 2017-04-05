@@ -1,0 +1,15 @@
+{
+  "name": "webgl-simple-uses",
+  "version": "0.0.1",
+  "description": "webGL simple uses",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "webGL",
+    "3D"
+  ],
+  "author": "liuding",
+  "license": "MIT"
+}
